@@ -23,7 +23,7 @@ CHANNEL_ID = '@brok_on'
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CONTRACT_FILE = os.path.join(BASE_DIR, 'baza Shartnoma raqami QQR va Xorazm.txt')
 
-UZEX_URL = 'https://www.uzex.uz/Trade/OffersSumNew?Page=1&Offset=0&Length=1000&Search=Карбамид'
+UZEX_URL = 'https://uzex.uz/Trade/OffersSumNew?Page=1&Offset=0&Length=1000&Search=карбамид'
 ASK_CONTRACT = 1
 
 bot = Bot(token=BOT_TOKEN)
