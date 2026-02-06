@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: Savdo-bot
-    runtime: python
-    buildCommand: ""
-    startCommand: python final.py
-    envVars:
-      - key: BOT_TOKEN
-        value: 8151910728:AAFV9mfPa7iqF9X1YYZgQnESB8EWGnZZJSY  # bu yerga tokeningizni yozing
