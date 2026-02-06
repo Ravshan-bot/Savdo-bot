@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hisob-kitob-486211",
+  "private_key_id": "10820066feffbd64fee23d3256606e7dc825d642",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC63LCF7hdoe1wf\nRTxtpuA6S9XLmlfLExqShWAvuroO3StY5W0pHes8vQkg4JC4f9jgh5BoGUb48Es0\nVQAQxs+5OxPcPECJSj8QNRc03dIqkBbiLwsFNR+aqMKKtL+gy/X2g6X8iZCkLXDK\nC7LVuV4Tm9DNWrcDb7oWvjMM84SUFcMzcih7fTWxMzZrvj2QDSVNIs7GIwm9HXPe\nywmJkif6mX+Xcq3+0Wt1YvWnNVHZy91shApTLS242EHoXygyMDzbd48rrFjBFno4\nOCJMiJ9Qsba4UKpmc+JyuPUZkie9YO50X4b0WHpIKEvdHGkani3m0wZFl1bzj1TD\nQ/vYNC8HAgMBAAECggEACPv5ZMcYywY7XKmIiUEfwM3KnrpyBCqL+YV+JW1V6scJ\ngYGuaO6uU8JHARSrAKPs+oaqE8c7WVa8VuzLTwMwE5jakJk5BSDTvWTAE+Oiajd5\nUjCu1/ZA6b+5cs/T8tg7oDmeLnEyyiIBLUW4uHvsIQc519XHvNuPV+6XJ8VBl5kL\nO6xC1r2KP2IqE/yMuNuA541+3daKdwKcGhgKB9G6GEcJDddQK2f6N+EZ6BN5ZP8n\n/5w8twFs6e49o7OtwoWX7gmTCb/V9j0Y6yIczxmcg1ssQ0bXnGbtfPOpP5+bjyup\nQpiWPf3FAxB/+0A+jFQoD2d4DJcZBaHtv7ljhWAsMQKBgQDea9MuK0RErpzvl7sv\nUZiWcPpbZKdLmi1KO/xWjdyxFOGsi2aH6/FCFaOvZTM2k34fmjqdjJC5tljQQFnL\nm27tplCSZxtv2mklQBk0NNWUSo5C4wUM5WYPMg+RIPFoVWTZ44CyrLp/BKRRigrz\nS6baqp3O3SI5AAXhGJCjKwqbGQKBgQDXEpGxhMGtGKbk6rWSjrTCm54jpz0pAkWf\nTSorestTeX2LpMGlplJXC3icCYM/EKNKt7NsBmBW0HBeFMfnVmGRNTFMmrxRSyvQ\n7czg1SBZBVn/iVLa558ZNqgTB20PxkqG78ahsvCGcsILZ+35DWKyu445G/6x1l/S\n6bwZ0Ap/HwKBgCFS8Fn7e4f6zWKMTixBwmXP2YK16ubF28FCiYUCTi1t3n32iM8W\nh5gKG/Mca3bi1EOx3NRcChb4/gd9jLaXvB/5ChtVPWQdyiEdoGkU/WbxYK0ezFPp\nTsg6DOEGmYSzPp/ymQasIGkFbgUVdJyNGhuq8mfa89SsbzURdCIuQbGJAoGAU8I8\nkUjlcHcgUBiEPB5tkTivvqzb6cOjv6V6ndJFqy2uUhsI+20pthKWlxYxUfc10Nx3\n+MMG8+hbSpiHPbXra3SuzWmZm4NN/iEOYCVAYsrtwNIHPY9k65nYnQiQVctgrOpm\njgS1HXdF0NFZ4VtwK7FVczJO341gZjB2/AqEe/sCgYBlePkFnBGeYuDqXoGaVonu\n0fvEuGpmY0huR1so6tnrOTkoT8WCkAkjTfg5sikJ+VlRtO/F+Esl+5Z+Iqp8B+Du\nnKDVzYh7GUB9rrBExr8c0xWRN3wpy3EAYperhIpKzmQAAnocQ36uOMIGshnHr1oR\nvCmjCWykAmlrL1P8WBfsHw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hisob-kitob@hisob-kitob-486211.iam.gserviceaccount.com",
+  "client_id": "105135186429670798619",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hisob-kitob%40hisob-kitob-486211.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
