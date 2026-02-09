@@ -14,7 +14,7 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder
 # --- SOZLAMALAR ---
 API_TOKEN = '7953710867:AAF51FKFtbkaYEqNT2kMIgELQ3MpdyqPfXM'
 CHAT_ID = -1003885297796
-JSON_FILE = r'/root/hisob-kitob/hisob-kitob-486211-10820066feff.json'
+JSON_FILE = r'/root/hisob-kitob/hisob-kitob-new-486211-699f385e8907.json'
 SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1buk3wLJvcpl0gUWTCeLxj3qjBwnBftCejEkC8zObmmM/"
 
 VAROQLAR = {"✅ Bajarilgan ishlar": "Bajarilgan ishlar"}
@@ -285,4 +285,5 @@ if __name__ == "__main__":
     except (KeyboardInterrupt, SystemExit):
 
         print("Bot to'xtatildi!")
+
 
